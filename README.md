@@ -4,7 +4,7 @@ Project Roles and Responsibilities
 
 UI Component Patterns
 Learn to structure and organize a complex web application.
-
+Feature Breakdown
 Practice collaboration in a multi-role development team.
 Team Roles
 Apply best practices in frontend, backend, and DevOps workflows.
