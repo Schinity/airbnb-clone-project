@@ -1,6 +1,6 @@
 Project Goals
 Build a fully functional accommodation booking platform from scratch.
-
+Project Roles and Responsibilities
 Design intuitive and responsive UI/UX interfaces.
 
 Learn to structure and organize a complex web application.
@@ -15,6 +15,7 @@ Frontend: HTML, CSS, JavaScript (with React or a similar framework)
 Version Control: Git & GitHub
 
 UI/UX Design Planning
+
 🎨 Color Styles
 Primary: #FF5A5F
 
