@@ -8,8 +8,9 @@ Learn to structure and organize a complex web application.
 Practice collaboration in a multi-role development team.
 Team Roles
 Apply best practices in frontend, backend, and DevOps workflows.
-
+Database Design
 Tech Stack
+Technology Stack
 Frontend: HTML, CSS, JavaScript (with React or a similar framework)
 
 Version Control: Git & GitHub
