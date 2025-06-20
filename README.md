@@ -1,8 +1,8 @@
 Project Goals
-Build a fully functional accommodation booking platform from scratch.
-Project Roles and Responsibilities
-Design intuitive and responsive UI/UX interfaces.
 
+Project Roles and Responsibilities
+
+UI Component Patterns
 Learn to structure and organize a complex web application.
 
 Practice collaboration in a multi-role development team.
