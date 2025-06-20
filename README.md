@@ -11,10 +11,10 @@ Apply best practices in frontend, backend, and DevOps workflows.
 Database Design
 Tech Stack
 Technology Stack
-Frontend: HTML, CSS, JavaScript (with React or a similar framework)
+API Security
 
 Version Control: Git & GitHub
-
+CI/CD Pipeline
 UI/UX Design Planning
 
 🎨 Color Styles
